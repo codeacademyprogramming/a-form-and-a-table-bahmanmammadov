@@ -1,0 +1,17 @@
+button{
+    background-color: rgb(123, 207, 123);
+    color: black;
+    padding-left: 35px;
+    padding-right: 35px;
+
+
+}
+h1{
+   text-align: center;
+}
+h2{
+   // font-size: 
+}
+input:hover{
+ border-color: green;
+}
